@@ -1,2 +1,1 @@
-# chinook-db-sql
-Chinook Database Project
+# Все описание проекта и мои запросы собраны в .doc файле
